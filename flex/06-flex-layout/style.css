@@ -37,8 +37,7 @@ input {
 
 .footer {
   display: flex;
-  justify-content: space-between;
-  text-decoration: none;
+  justify-content: space-between; 
   background-color: #eeeeee;
 }
 
@@ -66,4 +65,5 @@ input {
 
 li {
   margin: 0px 5px;
+  text-decoration: none;
 }
